@@ -1,0 +1,668 @@
+# Translation of Plugins - Breeze &#8211; WordPress Cache Plugin - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Breeze &#8211; WordPress Cache Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-07 09:43:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Breeze &#8211; WordPress Cache Plugin - Stable (latest release)\n"
+
+#: views/breeze-setting-views.php:79
+msgid "24/7 Expert Human Support"
+msgstr "24/7 真人專家技術支援"
+
+#: views/breeze-setting-views.php:80
+msgid "WooCommerce Compatible"
+msgstr "與 WooCommerce 相容"
+
+#: views/breeze-setting-views.php:83
+msgid "Find Out More"
+msgstr "進一步瞭解"
+
+#: views/breeze-setting-views.php:87
+msgid "Rate Breeze"
+msgstr "為 Breeze 進行評分"
+
+#: views/breeze-setting-views.php:88
+msgid "If you are satisfied with Breeze's performance, <a href=\"https://wordpress.org/plugins/breeze#reviews\" target=\"_blank\">drop us a rating here.</a>"
+msgstr "如果你 Breeze 的表現感到滿意，請在<a href=\"https://wordpress.org/plugins/breeze#reviews\" target=\"_blank\">這裡</a>為這個外掛進行評分。"
+
+#: views/tabs/advanced.php:76
+msgid "Move JS files to footer"
+msgstr "將 JS 檔案移至頁尾"
+
+#: views/tabs/advanced.php:90 views/tabs/advanced.php:105
+#: views/tabs/advanced.php:143 views/tabs/advanced.php:158
+msgid "Enter URL..."
+msgstr "請輸入網址..."
+
+#: views/tabs/advanced.php:92 views/tabs/advanced.php:107
+#: views/tabs/advanced.php:145 views/tabs/advanced.php:160
+msgid "Remove"
+msgstr "移除"
+
+#: views/tabs/advanced.php:113 views/tabs/advanced.php:166
+msgid "Add URL"
+msgstr "新增網址"
+
+#: views/tabs/advanced.php:119
+msgid "Enter the complete URLs of JS files to be moved to the footer during minification process."
+msgstr "進行最小化處理時，輸入在此的 JS 檔案完整網址會移至頁尾。"
+
+#: views/tabs/advanced.php:122 views/tabs/advanced.php:172
+msgid "You should add the URL of original files as URL of minified files are not supported."
+msgstr "這個外掛不支援已進行最小化處理的 JS 檔案，請輸入原始 JS 檔案的網址。"
+
+#: views/tabs/advanced.php:129
+msgid "JS files with deferred loading"
+msgstr "延後載入 JS 檔案"
+
+#: views/tabs/basic.php:62
+msgid "Include inline JS"
+msgstr "包含內嵌 JS"
+
+#: views/tabs/basic.php:69
+msgid "Include inline CSS"
+msgstr "包含內嵌 CSS"
+
+#: views/tabs/faq.php:106
+msgid "How can I test and verify the results?"
+msgstr "我如何測試及驗證 Breeze 的快取效果？"
+
+#: views/tabs/faq.php:118
+msgid "Does Breeze plugin work with Visual Builder?"
+msgstr "Breeze 是否能與各款視覺化編輯器一起執行？"
+
+#: views/breeze-setting-views.php:57
+msgid "Optimize"
+msgstr "最佳化"
+
+#: views/breeze-setting-views.php:62
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: views/breeze-setting-views.php:73
+msgid "Want to Experience Better Performance?"
+msgstr "想體驗更佳的效能嗎？"
+
+#: views/breeze-setting-views.php:75
+msgid "Take advantage of powerful features by deploying WordPress and Breeze on Cloudways."
+msgstr "透過在 Cloudways 上部署 WordPress 及 Breeze，便能充分利用以下強大的功能。"
+
+#: views/breeze-setting-views.php:77
+msgid "Fully Compatible with Varnish"
+msgstr "與 Varnish 完全相容"
+
+#: views/breeze-setting-views.php:78
+msgid "One-Click setup of CloudwaysCDN"
+msgstr "一鍵設定 CloudwaysCDN"
+
+#: views/tabs/faq.php:27
+msgid "How does Breeze handle WordPress multisite?"
+msgstr "Breeze 如何處理 WordPress 多站點網站的快取？"
+
+#: views/tabs/faq.php:29
+msgid "Breeze handles all WordPress multisite instances globally. All the settings for multisite are now handled on the network level."
+msgstr "Breeze 統一處理所有 WordPress 多站點中所有網站的快取。所有針對多站點的設定，均屬於超級管理員層級。"
+
+#: views/tabs/faq.php:147
+msgid "KnowledgeBase article for details."
+msgstr "這份知識庫文章以取得詳細資訊。"
+
+#: views/tabs/faq.php:68
+msgid "Breeze’s database optimization cleans out unwanted information in a single click."
+msgstr "Breeze 的資料庫最佳化功能，能夠讓你一鍵清除所有不必要的資料。"
+
+#: views/tabs/faq.php:73
+msgid "Will comments and other dynamic parts of my blog appear immediately?"
+msgstr "啟用 Breeze 快取外掛後，網站上的迴響及其他動態產生的內容會即時顯示嗎？"
+
+#: views/tabs/faq.php:75
+msgid "Comments will appear upon moderation as per the comment system (or policy) set in place by the blog owner. Other dynamic changes such as any modifications in files will require a full cache purge."
+msgstr "迴響能否即時顯示，會依照網站管理員對迴響系統的設定或稽核原則而定；而對動態內容所進行的變更，則必須進行完整的快取清除操作後才能顯示。"
+
+#: views/tabs/faq.php:80
+msgid "Can I exclude URLs of individual files and pages from cache?"
+msgstr "是否能從快取中排除個別檔案及頁面的網址？"
+
+#: views/tabs/faq.php:82
+msgid "You can exclude a file by mentioning its URL or file type (by mentioning file extension) in the exclude fields (available in the Breeze settings). Exclude will not let the cache impact that URL or file type."
+msgstr "Breeze 的設定提供了設定排除項目的欄位，透過提供檔案網址或檔案類型 (也就是檔案的副檔名) 便能從快取中加以排除。Breeze 不會對排除在外的項目進行快取。"
+
+#: views/tabs/faq.php:83
+msgid "If Varnish is active, you will need to exclude URLs and file type(s) in the Varnish configuration. If you are hosting WordPress websites on Cloudways servers, follow "
+msgstr "Varnish 啟用後，你會需要在 Varnish 設定中將網址及檔案類型加以排除。如果你的 WordPress 網站託管於 Cloudways 提供的伺服器，請參閱"
+
+#: views/tabs/faq.php:84
+msgid "this KB to exclude URLs from the Varnish cache."
+msgstr "這篇知識庫文章以瞭解如何從 Varnish 快取機制中排除特定網址內容。"
+
+#: views/tabs/faq.php:90
+msgid "Does it work with all hosting providers?"
+msgstr "Breeze 可以執行於各家主機服務提供商的主機嗎？"
+
+#: views/tabs/faq.php:92
+msgid "Breeze has been tested to work with all major hosting providers. In addition, major Breeze options such as Gzip, browser cache, minification, grouping, database optimization. CDN integration will work as expected on all hosting providers."
+msgstr "Breeze 在主要的主機服務提供商都進行過測試。此外，Breeze 的主要功能如 Gzip、瀏覽器快取、檔案最小化、資料庫最佳化及 CDN 整合，在所有主機均能正常執行。"
+
+#: views/tabs/faq.php:97
+msgid "Where can I get support for Breeze?"
+msgstr "我在何處可以取得 Breeze 外掛的技術支援？"
+
+#: views/tabs/faq.php:99
+msgid "You can get your questions answered on the WordPress support forums. If you are a Cloudways customer, please feel free to start a discussion at"
+msgstr "你可以在 WordPress 技術支援論壇上提出問題並得到回覆。如果你是 Cloudways 的客戶，隨時可以在官方討論區進行討論，也就是 "
+
+#: views/tabs/faq.php:108
+msgid "You will be able to see the impact of the Breeze Cache Plugin almost immediately. We also recommend using the following tools for generating metrics:"
+msgstr "你可以近乎即時的觀察到 Breeze 快取外掛對網站的加速效果，我們也建議使用下列工具產生指標報告藉以評估成效:"
+
+#: views/tabs/faq.php:110
+msgid "Google Page Speed"
+msgstr "Google Page Speed"
+
+#: views/tabs/faq.php:111
+msgid "WebPagetest"
+msgstr "WebPagetest"
+
+#: views/tabs/faq.php:112
+msgid "Pingdom"
+msgstr "Pingdom"
+
+#: views/tabs/faq.php:127
+msgid "Breeze supports the following three popular CDNs:"
+msgstr "Breeze 支援下列 3 個熱門的 CDN:"
+
+#: views/tabs/faq.php:129
+msgid "MaxCDN"
+msgstr "MaxCDN"
+
+#: views/tabs/faq.php:130
+msgid "KeyCDN"
+msgstr "KeyCDN"
+
+#: views/tabs/faq.php:131
+msgid "Amazon Cloudfront"
+msgstr "Amazon Cloudfront"
+
+#: views/tabs/faq.php:137
+msgid "Does Breeze support Push CDN?"
+msgstr "Breeze 是否支援主動式 CDN？"
+
+#: views/tabs/faq.php:139
+msgid "No, Breeze does not support Push CDN. However, you could use Breeze with Push CDNs using third party plugins."
+msgstr "否，Breeze 不支援主動式 CDN，但你可以透過第三方外掛讓 Breeze 與主動式 CDN 同時執行。"
+
+#: views/tabs/faq.php:144
+msgid "Does Breeze Work With CloudFlare?"
+msgstr "Breeze 是否能與 CloudFlare 一起執行？"
+
+#: views/tabs/faq.php:146
+msgid "Yes. The process of setting up CloudFlare with Breeze is easy. Check out the following "
+msgstr "可以。要讓 CloudFlare 與 Breeze 一起執行的設定程序相當簡單，請參閱"
+
+#: views/tabs/faq.php:153
+msgid "How Breeze cache uses Gzip?"
+msgstr "Breeze 如何運用 Gzip 功能？"
+
+#: views/tabs/faq.php:155
+msgid "Using Gzip, Breeze compresses the request files, further reducing the size of the download files and speeding up the user experience."
+msgstr "啟用 Gzip 功能後，Breeze 便能壓縮使用者請求的檔案、進一步減少下載檔案的大小，藉以加速以提昇使用者體驗。"
+
+#: views/tabs/faq.php:120
+msgid "Yes, Breeze Plugin is compatible with Visual Builder."
+msgstr "是的，Breeze 相容於各款視覺化編輯器。"
+
+#: views/tabs/faq.php:125
+msgid "What popular CDN are supported by Breeze Plugin?"
+msgstr "Breeze 支援哪些熱門的 CDN？"
+
+#: views/breeze-setting-views.php:10 views/breeze-setting-views.php:15
+msgid "FAQs"
+msgstr "常見問題集"
+
+#: views/tabs/cdn.php:31
+msgid "Enter CDN CNAME."
+msgstr "輸入 CDN 主機的 CNAME。"
+
+#: views/tabs/faq.php:6
+msgid "Does Breeze support Varnish and to what extent?"
+msgstr "Breeze 是否支援 Varnish？支援到哪個程度？"
+
+#: views/tabs/faq.php:8
+msgid "Breeze, by default, supports Varnish. It has been tested to be fully compatible with Cloudways Servers that come with Varnish pre-installed. If you are using hosting providers other than Cloudways, we suggest you confirm Varnish support with your hosting provider."
+msgstr "Breeze 預設支援 Varnish，且完全相容於 Cloudways 已預先安裝 Varnish 的伺服器。如果你使用的主機並非由 Cloudways 所提供，建議向你的主機託管服務提供商洽詢關於 Varnish 的支援。"
+
+#: views/tabs/faq.php:13
+msgid "Does Breeze support WooCommerce?"
+msgstr "Breeze 是否支援 WooCommerce？"
+
+#: views/tabs/faq.php:15
+msgid "Breeze is fully compatible with WooCommerce, out of the box. It does not require any special configurations."
+msgstr "Breeze 與 WooCommerce 完全相容，安裝啟用後即可開始執行，且無須進行任何特殊設定。"
+
+#: views/tabs/faq.php:20
+msgid "Does Breeze support WordPress Multisite?"
+msgstr "Breeze 是否支援 WordPress 多站點功能？"
+
+#: views/tabs/faq.php:22
+msgid "Breeze is fully compatible with WordPress Multisite without the need for any extra configuration."
+msgstr "Breeze 與 WordPress 多站點功能完全相容，且無須進行任何額外設定。"
+
+#: views/tabs/faq.php:34
+msgid "Is Breeze compatible with other WordPress Cache plugins?"
+msgstr "Breeze 是否與其他 WordPress 快取外掛相容？"
+
+#: views/tabs/faq.php:36
+msgid "We DO NOT recommend using two WordPress cache plugins at the same time on any WordPress website."
+msgstr "我們並<strong>不建議</strong>在任何 WordPress 網站上同時使用兩個快取外掛。"
+
+#: views/tabs/faq.php:37
+msgid "We strongly recommend that you use Breeze as the only cache plugin for your website. If there are any other cache plugins installed, please ensure that you have disabled them prior to proceeding with the Breeze installation."
+msgstr "我們強烈建議在網站上使用 Breeze，將它作為唯一的快取外掛。如果網站上使用了其他快取外掛，請確保在安裝 Breeze 前已將其停用。"
+
+#: views/tabs/faq.php:42
+msgid "Is Breeze compatible with HTTPS?"
+msgstr "Breeze 是否與 HTTPS 相容？"
+
+#: views/tabs/faq.php:44
+msgid "Breeze does not require any special configuration to work with HTTP or HTTPS pages."
+msgstr "Breeze 無須任何特殊設定，便能同時處理 HTTP 與 HTTPS 頁面。"
+
+#: views/tabs/faq.php:49
+msgid "Does Breeze have compatibility issues with other known plugins?"
+msgstr "Breeze 是否與其他外掛有相容性問題？"
+
+#: views/tabs/faq.php:51
+msgid "Breeze has been tested with popular plugins available on WordPress.org. Please feel free to report any incompatibilities on the WordPress Support Forums or on "
+msgstr "Breeze 已與 WordPress.org 上知名的外掛進行過相容性測試，如有任何相容性問題，請在 WordPress 技術支援論壇回報，亦可回報至 "
+
+#: views/tabs/faq.php:58
+msgid "Does Breeze support CDN?"
+msgstr "Breeze 是否支援 CDN？"
+
+#: views/tabs/faq.php:60
+msgid "Breeze supports CDN integration. It allows all static assets (such as images, CSS and JS files) to be served via CDN."
+msgstr "Breeze 支援 CDN 整合，整合後便可由 CDN 處理它所產出的所有靜態檔案，如圖片、CSS 以及 JS 檔。"
+
+#: views/tabs/faq.php:65
+msgid "What does Breeze’s Database Optimization feature do?"
+msgstr "Breeze 的資料庫最佳化功能作用為何？"
+
+#: views/tabs/faq.php:67
+msgid "WordPress databases are notorious for storing information like post revisions, spam comments and much more. Over time, databases l become bloated and it is a good practice to clear out unwanted information to reduce database size and improve optimization."
+msgstr "眾所周知，WordPress 資料庫儲存了文章版本以及垃圾迴響等資訊。網站經營一段時間之後，資料庫便會變的臃腫龐大；定期清除資料庫中不需要的資訊，是減少資料庫大小及增進最佳化的最佳方式。"
+
+#: views/tabs/cdn.php:27
+msgid "CDN CNAME"
+msgstr "CDN CNAME"
+
+#: views/breeze-setting-views.php:9
+msgid "VARNISH"
+msgstr "VARNISH"
+
+#: views/breeze-setting-views.php:7
+msgid "DATABASE"
+msgstr "資料庫"
+
+#: views/tabs/advanced.php:18
+msgid "Knowledge Base"
+msgstr "知識庫"
+
+#: views/tabs/advanced.php:18
+msgid " article."
+msgstr "文章。"
+
+#: inc/breeze-admin.php:97
+msgid "Hide message"
+msgstr "隱藏訊息"
+
+#: inc/breeze-admin.php:188
+msgid "Purge Internal Cache"
+msgstr "清除內部快取"
+
+#: inc/breeze-admin.php:95
+msgid "Thanks for installing Breeze. It is always recommended not to use more than one caching plugin at the same time. We recommend you to purge cache if necessary."
+msgstr "感謝你安裝 Breeze。強烈建議不要同時使用多個快取外掛，如有需要，建議你清除快取即可。"
+
+#: inc/cache/purge-varnish.php:104
+msgid "Cache data has been purged: "
+msgstr "快取資料已清除: "
+
+#: inc/cache/purge-varnish.php:106
+msgid "Cache data has been purged."
+msgstr "快取資料已清除。"
+
+#: views/breeze-setting-views.php:5
+msgid "BASIC OPTIONS"
+msgstr "基本設定"
+
+#: views/breeze-setting-views.php:6
+msgid "ADVANCED OPTIONS"
+msgstr "進階設定"
+
+#: views/tabs/advanced.php:18
+msgid "Add the URLs of the pages (one per line) you wish to exclude from the WordPress internal cache. To exclude URLs from the Varnish cache, please refer to this "
+msgstr "以每行一個的方式加入需要予以排除的 WordPress 內部快取頁面網址。如需排除 Varnish 快取網址，請參閱這篇"
+
+#: views/tabs/advanced.php:40
+msgid "Important: Enable Minification to use this option."
+msgstr "重要提示: 如需使用這項功能，請先啟用 [基本設定] 中的 [最小化] 功能。"
+
+#: views/tabs/database.php:26
+msgid "Important: Backup your databases before using the following options!"
+msgstr "重要提示: 在執行下列功能前，請先備份網站資料庫！"
+
+#: views/tabs/database.php:81
+msgid "Use this option to delete Trackbacks and Pingbacks from the WordPress database."
+msgstr "執行這項功能便可從 WordPress 資料庫中刪除引用通知和通告。"
+
+#: views/tabs/database.php:90
+msgid "Delete expired and active transients from the WordPress database."
+msgstr "執行這項功能便可從 WordPress 資料庫中刪除過期和使用中的暫存資料。"
+
+#: views/tabs/faq.php:52 views/tabs/faq.php:100
+msgid "Cloudways Community Forum."
+msgstr "Cloudways 社群論壇。"
+
+#. Author URI of the plugin/theme
+msgid "https://www.cloudways.com"
+msgstr "https://www.cloudways.com"
+
+#. Author of the plugin/theme
+msgid "Cloudways"
+msgstr "Cloudways"
+
+#: views/tabs/varnish.php:42
+msgid "Purge"
+msgstr "清除"
+
+#: inc/breeze-admin.php:180 views/tabs/varnish.php:39
+msgid "Purge Varnish Cache"
+msgstr "清除 Varnish 快取"
+
+#: views/tabs/varnish.php:28
+msgid "Varnish server"
+msgstr "Varnish 伺服器"
+
+#: views/tabs/varnish.php:21
+msgid " and learn how to enable it."
+msgstr "並了解要如何啟用它。"
+
+#: views/tabs/varnish.php:13
+msgid "Auto Purge Varnish"
+msgstr "自動清除 Varnish"
+
+#: views/tabs/varnish.php:8
+msgid "By default Varnish is enabled on all WordPress websites hosted on Cloudways."
+msgstr "預設情況下，Cloudways 已在所有托管的 WordPress 網站上啟用 Varnish。"
+
+#: views/tabs/database.php:77
+msgid "Trackbacks and pingbacks"
+msgstr "引用通知和通告"
+
+#: views/tabs/database.php:49
+msgid "Auto drafted content"
+msgstr "自動草稿內容"
+
+#: views/tabs/database.php:40
+msgid "Post revisions"
+msgstr "文章版本"
+
+#: views/tabs/database.php:31
+msgid "Select all"
+msgstr "全部選取"
+
+#: views/tabs/cdn.php:58
+msgid "Relative path"
+msgstr "相對路徑"
+
+#: views/tabs/cdn.php:48
+msgid "Exclude Content"
+msgstr "排除內容"
+
+#: views/tabs/cdn.php:38
+msgid "CDN Content"
+msgstr "CDN 內容"
+
+#: views/tabs/cdn.php:30
+msgid "https://www.domain.com"
+msgstr "https://www.domain.com"
+
+#: views/tabs/cdn.php:18
+msgid "Activate CDN"
+msgstr "啟用 CDN"
+
+#: views/tabs/basic.php:110
+msgid "Activated"
+msgstr "已啟用"
+
+#: views/tabs/basic.php:95
+msgid "Browser Cache"
+msgstr "瀏覽器快取"
+
+#: views/tabs/basic.php:85
+msgid "Gzip Compression"
+msgstr "Gzip 壓縮"
+
+#: views/tabs/basic.php:41
+msgid "HTML"
+msgstr "HTML"
+
+#: views/tabs/basic.php:33
+msgid "Minification"
+msgstr "最小化"
+
+#: views/tabs/basic.php:9
+msgid "Cache System"
+msgstr "快取系統"
+
+#: views/tabs/advanced.php:35 views/tabs/basic.php:55
+msgid "JS"
+msgstr "JS"
+
+#: views/tabs/advanced.php:30 views/tabs/basic.php:48
+msgid "CSS"
+msgstr "CSS"
+
+#: views/tabs/advanced.php:62
+msgid "Exclude JS"
+msgstr "排除 JS"
+
+#: views/tabs/advanced.php:48
+msgid "Exclude CSS"
+msgstr "排除 CSS"
+
+#: views/tabs/advanced.php:23
+msgid "Group Files"
+msgstr "合併檔案"
+
+#: views/breeze-setting-views.php:26
+msgid "Configuration settings saved"
+msgstr "設定已儲存"
+
+#: views/breeze-setting-views.php:8
+msgid "CDN"
+msgstr "CDN"
+
+#: inc/cache/purge-varnish.php:104
+msgid " Kb static cache cleaned"
+msgstr "Kb 靜態快取已清除"
+
+#. #-#-#-#-#  breeze-code.pot (Breeze 1.0.9)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/breeze-admin.php:131 inc/breeze-admin.php:137 inc/breeze-admin.php:151
+msgid "Breeze"
+msgstr "Breeze"
+
+#: inc/breeze-admin.php:161
+msgid "Purge All Cache"
+msgstr "清除所有快取"
+
+#: inc/breeze-admin.php:170
+msgid "Purge Modules"
+msgstr "清除模組"
+
+#: inc/breeze-admin.php:196 inc/breeze-admin.php:205
+msgid "Settings"
+msgstr "設定"
+
+#: inc/breeze-admin.php:215
+msgid "Support"
+msgstr "支援"
+
+#: inc/cache/purge-per-time.php:74
+msgid "Cloudways Varnish Purge Interval"
+msgstr "Cloudways Varnish 清除間隔"
+
+#: views/tabs/advanced.php:9
+msgid "Never Cache these URLs"
+msgstr "永不進行快取的網址"
+
+#: views/tabs/advanced.php:39
+msgid "Group CSS and JS files to combine them into a single file. This will reduce the number of HTTP requests to your server."
+msgstr "將 CSS 和 JS 檔案進行合併，它們會成為單一檔案。這項設定能減少對伺服器的 HTTP 請求數。"
+
+#: views/tabs/basic.php:15
+msgid "This is the basic cache that we recommend should be kept enabled in all cases. Basic cache will build the internal and static caches for the WordPress websites."
+msgstr "這是在所有情況下都應該啟用的基本快取功能。基本快取功能能為 WordPress 網站建立內部快取及靜態快取。"
+
+#: views/tabs/basic.php:21
+msgid "Purge cache after"
+msgstr "清除快取時間間隔"
+
+#: views/tabs/basic.php:73
+msgid "Check the above boxes to minify HTML, CSS, or JS files."
+msgstr "核取以上選項便能將 HTML、CSS 及 JS 檔案最小化。"
+
+#: views/tabs/basic.php:76
+msgid "We recommend testing minification on a staging website before deploying it on a live website. Minification is known to cause issues on the frontend."
+msgstr "建議先在預備環境網站中測試最小化功能，確認沒有發生問題才部署到實際網站。眾所皆知，最小化會在前端產生一些問題。"
+
+#: views/tabs/basic.php:90
+msgid "Enable this to compress your files making HTTP requests fewer and faster."
+msgstr "啟用這項設定便能將傳輸至使用者瀏覽器的檔案進行壓縮，使 HTTP 請求數更少且傳輸速度更快。"
+
+#: views/tabs/basic.php:100
+msgid "Enable this to add expires headers to static files. This will ask browsers to either request a file from server or fetch from the browser’s cache."
+msgstr "啟用這項設定便能為靜態檔案加入過期標頭。這將讓瀏覽器決定從伺服器或從瀏覽器快取請求檔案。"
+
+#: views/tabs/basic.php:106
+msgid "Desktop Cache"
+msgstr "桌面版網站快取"
+
+#: views/tabs/basic.php:111
+msgid "No cache for desktop"
+msgstr "不為桌面版網站進行快取"
+
+#: views/tabs/basic.php:118
+msgid "Mobile Cache"
+msgstr "行動版網站快取"
+
+#: views/tabs/basic.php:123
+msgid "Specific mobile cache"
+msgstr "專為行動版網站進行快取"
+
+#: views/tabs/basic.php:124
+msgid "No cache for mobile"
+msgstr "不為行動版網站進行快取"
+
+#: views/tabs/cdn.php:22
+msgid "Enable to make CDN effective on your website."
+msgstr "為這個網站啟用 CDN 功能。"
+
+#: views/tabs/cdn.php:33
+msgid "Use double slash ‘//’ at the start of CDN CNAME, if you have some pages on  HTTP and some are on HTTPS."
+msgstr "如果這個網站包含 HTTP 及 HTTPS 兩種頁面，在輸入 CDN 主機 CNAME 時僅需輸入雙斜線 <code>//</code>，而無須輸入 HTTP 或 HTTPS。"
+
+#: views/tabs/cdn.php:43
+msgid "Enter the directories (comma separated) of which you want the CDN to serve the content."
+msgstr "請輸入需要進行 CDN 內容分流的目錄。如需輸入多個目錄，請以逗號進行分隔。"
+
+#: views/tabs/cdn.php:53
+msgid "Exclude file types or directories from CDN. Example, enter .css to exclude the CSS files."
+msgstr "排除無需進行 CDN 內容分流的檔案類型或目錄。舉例來說，輸入 .css 便會在進行 CDN 內容分流時排除 CSS 檔案。如需輸入多個項目，請以逗號進行分隔。"
+
+#: views/tabs/cdn.php:62
+msgid "Keep this option enabled. Use this option to enable relative path for your CDN on your WordPress site."
+msgstr "請保持這項功能的啟用狀態。使用這項功能便能為這個 WordPress 網站上的 CDN 內容分流啟用相對路徑。"
+
+#: views/tabs/database.php:35
+msgid "Select all following options. Click Optimize to perform actions."
+msgstr "選取以下所有功能。按一下 [最佳化] 便開始執行。"
+
+#: views/tabs/database.php:44
+msgid "Use this option to delete all post revisions from the WordPress database."
+msgstr "執行這項功能便可從 WordPress 資料庫中刪除所有文章版本。"
+
+#: views/tabs/database.php:53
+msgid "Use this option to delete auto saved drafts from the WordPress database."
+msgstr "執行這項功能便可從 WordPress 資料庫中刪除自動儲存的草稿。"
+
+#: views/tabs/database.php:58
+msgid "All trashed content"
+msgstr "所有回收桶中的內容"
+
+#: views/tabs/database.php:62
+msgid "Use this option to delete all trashed content from the WordPress database."
+msgstr "執行這項功能便可從 WordPress 資料庫中刪除所有回收桶中的內容。"
+
+#: views/tabs/database.php:68
+msgid "Comments from trash & spam"
+msgstr "回收桶中的迴響和垃圾迴響"
+
+#: views/tabs/database.php:72
+msgid "Use this option to delete trash and spam comments from the WordPress database."
+msgstr "執行這項功能便可從 WordPress 資料庫中刪除回收桶中的迴響和垃圾迴響。"
+
+#: views/tabs/database.php:86
+msgid "Transient options"
+msgstr "暫存資料"
+
+#: views/tabs/varnish.php:17
+msgid "Keep this option enabled to automatically purge Varnish cache on actions like publishing new blog posts, pages and comments."
+msgstr "核取這項設定以啟用自動清除 Varnish 快取，例如在發表新文章、頁面和迴響後自動清除快取。"
+
+#: views/tabs/varnish.php:21
+msgid "Seems Varnish is disabled on your Application. Please refer to "
+msgstr "Varnish 在你的應用程式中遭到停用。請參閱"
+
+#: views/tabs/varnish.php:34
+msgid "Note: Keep this default if you are a Cloudways customer. Otherwise ask your hosting provider on what to set here."
+msgstr "請注意，如果你是 Cloudways 用戶，請將這項設定維持預設值。如果不是，請向你的主機服務提供商洽詢設定方式。"
+
+#: views/tabs/varnish.php:43
+msgid "Use this option to instantly Purge Varnish Cache on entire website. "
+msgstr "<br/>使用這項功能便能立即清除整個網站上的 Varnish 快取。"
+
+#. Description of the plugin/theme
+msgid "Breeze is a WordPress cache plugin with extensive options to speed up your website. All the options including Varnish Cache are compatible with Cloudways hosting."
+msgstr "Breeze 是一款具有詳盡設定，可為網站進行加速的 WordPress 外掛，同時也提供與 Cloudways 主機服務相容的 Varnish 快取設定。"
+
+#: views/tabs/basic.php:27
+msgid "Automatically purge internal cache after X minutes. By default this is set to 1440 minutes (1 day)"
+msgstr "分鐘<br/>在 X 分鐘後自動清除內部快取，預設值為 1440 分鐘 (即 1 天)。"
+
+#: views/tabs/advanced.php:57
+msgid "Use this option to exclude CSS files from Minification and Grouping. Enter the URLs of CSS files on each line."
+msgstr "使用這項功能便會將指定的 CSS 檔案從 [最小化] 及 [合併檔案] 這兩項功能中排除。請以每行一個的方式輸入 CSS 檔案網址。"
+
+#: views/tabs/advanced.php:71
+msgid "Use this option to exclude JS files from Minification and Grouping. Enter the URLs of JS files on each line."
+msgstr "使用這項功能便會將指定的 JS 檔案從 [最小化] 及 [合併檔案] 這兩項功能中排除。請以每行一個的方式輸入 JS 檔案網址。"
+
+#: views/tabs/basic.php:122
+msgid "Automatic (same as desktop)"
+msgstr "自動 (同於桌面版網站設定)"
+
+#: views/breeze-setting-views.php:22
+msgid "Database cleanup successful"
+msgstr "資料庫清理成功"
+
+#: views/tabs/varnish.php:21
+msgid "this KB"
+msgstr "這篇知識庫文章"
